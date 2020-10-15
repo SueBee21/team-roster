@@ -37,17 +37,21 @@ User is a manager who wants to generate a webpage to displays thier team's basic
   
   
   ## Tests
+* Screenshot of Development Test:
+<img width="1792" alt="team-roster-test" src="https://user-images.githubusercontent.com/68358265/96062837-adc7c100-0e64-11eb-8980-abdc5cb8be94.png">
 
-* Test Demo video located here:
+* Application Demo video located here:
+https://drive.google.com/file/d/1_qfJYS5ffbShS0mqLvylvD-C-sKPLy6r/view?usp=sharing
 
+* Screenshot of application:
+<img width="1792" alt="team-roster-application" src="https://user-images.githubusercontent.com/68358265/96063096-2a5a9f80-0e65-11eb-9455-00b28ccfa0b6.png">
 
-* Screenshot of Application:
+* Screenshot of Generated HTML without output:
+<img width="1792" alt="team-roster-sample-output" src="https://user-images.githubusercontent.com/68358265/96062694-51fd3800-0e64-11eb-88d7-ad0e5de1433c.png">
 
-
-* Screenshot of generated html file:
 
 * Screenshot of deployed Team Roster Website
-
+<img width="1792" alt="team-roster-output-deployed" src="https://user-images.githubusercontent.com/68358265/96062797-97216a00-0e64-11eb-96b2-54e67049536a.png">
   
 ## Questions
 If you have additional questions, I can be reached through the following:
